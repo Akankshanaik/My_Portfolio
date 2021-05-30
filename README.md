@@ -28,7 +28,7 @@
 
 ## 🎯Future Aims
 📌Looking forward to doing a good job <br>
-📌Aim to become
+📌Aim to become a Full Stack Web development 
 
 
 
