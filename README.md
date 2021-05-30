@@ -6,8 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=https://www.linkedin.com/in/akanksha-naik/)](https://www.linkedin.com/in/akanksha-naik/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naikakanksha3@gmail.com)](mailto:naikakanksha3@gmail.com)
 
-
-<br>
 <br>
 
 ## Current Understandings🚩
