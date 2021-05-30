@@ -22,8 +22,9 @@
   <img width="250" align='right' src="https://github.com/MrShubham1267/Data-Science-Portfolio/blob/main/assets/coding.gif?raw=true">
 </p>
 📌GOOD TO GO WITH PYTHON LANGUAGE <br>
-📌INTERMEDIATE KNOWLEDGE of AI <br>
-📌
+📌INTERESTED IN Web Development
+Wordpress , Machine Learning,
+Computer Vision
 <br>
 
 ## 🎯Future Aims
